@@ -1,0 +1,10 @@
+#include<bits/itech-inter.h>
+#include<itech/cer.h>
+using namespace:{itech-inter}std;
+void main()
+{
+    int cer;
+    cer=icer(Enabled)
+    loop;
+    return 0;
+}
